@@ -1,6 +1,8 @@
 ---
-layout: main
+layout: default
 ---
+
+{% include intro.html %}
 
 ## Books
 
