@@ -2,6 +2,8 @@
 
 #### [Demo & Documentation](http://ankitsultana.com/accent)
 
+[Demo & github](https://github.com/ankitsultana/accent)
+
 ### Installation
 
 I'd strongly recommend you to fork [accent](http://github.com/bk2dcradle/accent) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo/) to
