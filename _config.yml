@@ -1,12 +1,12 @@
 # User Settings | Edit there as per required
 
-title: Foo～老和尚
+title: accent～老和尚
 url: "http://laoheshang.github.io"
-baseurl: "/foo"
+baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
-    Foo <span class="faded">老和尚</span>
+    老和尚 <span class="faded">accent</span>
 
 email: your@email.com
 author: yourname
