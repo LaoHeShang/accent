@@ -6,7 +6,7 @@ baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
-    老和尚 <span class="faded">accent</span>
+    老和尚 <span class="faded"> accent</span>
 
 email: your@email.com
 author: yourname
@@ -59,7 +59,7 @@ favicon: true
 favicon_location: "images/favicon.ico"
 
 profile_picture: images/temp.png
-paginate: 5
+paginate: 10
 paginate_path: "/page/:num"
 tracking_id: UA-69243 # GA Tracking ID
 
