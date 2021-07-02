@@ -2,7 +2,7 @@
 
 title: accent～老和尚
 url: "https://icp.me"
-baseurl: "/accent"
+baseurl: "/foo"
 
 # This will show up at the top of index page
 site_heading: >
